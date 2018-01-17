@@ -1,7 +1,6 @@
 import numpy as np
 import scipy.io as sio
 from pcaandlda import pca,lda
-from sklearn.discriminant_analysis import LinearDiscriminantAnalysis
 import knn
 import time
 
